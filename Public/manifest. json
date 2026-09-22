@@ -1,0 +1,13 @@
+{
+  "name": "সুরক্ষা কবচ - Parental Control",
+  "short_name": "সুরক্ষা কবচ",
+  "description": "সন্তানের ডিভাইসে জুয়া ও ক্ষতিকর সাইট ব্লক করার প্যারেন্টাল কন্ট্রোল অ্যাপ",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/images/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
